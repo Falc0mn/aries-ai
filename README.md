@@ -1,6 +1,6 @@
-# AI.TUTOR 🤖📚
+# Aries AI ♈
 
-![AI Tutor](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)  
+![Aries AI](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-brightgreen)  
 [![GitHub Releases](https://img.shields.io/github/release/nguyennam05/AI.TUTOR.svg)](https://github.com/nguyennam05/AI.TUTOR/releases)
 
 ---
@@ -37,7 +37,7 @@ To get started with AI Tutor, follow these steps:
 
 2. **Navigate to the Directory**:
    ```bash
-   cd AI.TUTOR
+   cd AriesAI
    ```
 
 3. **Install Dependencies**:
